@@ -128,7 +128,13 @@ body{
 
 
 .main-item .span-p{
-  font-size:50px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  left: 20px;
+  bottom: 20px;
+  width: 16px;
+  height: 16px;
   font-weight: bolder;
   color: #002529;
 }
